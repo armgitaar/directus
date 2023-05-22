@@ -1,11 +1,11 @@
 {
-“scripts”: {
-  “start”: “pnpx directus start”,
-  “build”: “pnpx directus bootstrap”,
+"scripts": {
+  "start": "pnpx directus start",
+  "build": "pnpx directus bootstrap",
 },
-“dependencies”: {
-  “directus”: “^10.1.1”,
-  “mysql”: “^2.18.1”,
-  “pg”: “^8.11.0”,
+"dependencies": {
+  "directus": "^10.1.1",
+  "mysql": "^2.18.1",
+  "pg": "^8.11.0",
   },
 }
